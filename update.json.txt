@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "url": "https://raw.githubusercontent.com/karam0802/SupplierUpdates/main/Supplier.exe",
+  "mandatory": false,
+  "changelog": "New update available."
+}
