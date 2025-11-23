@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<item>
+  <version>1.0.0</version>
+  <url>https://raw.githubusercontent.com/karam0802/SupplierUpdates/main/Supplier.exe</url>
+  <mandatory>false</mandatory>
+  <checksum>ignore</checksum>
+</item>
